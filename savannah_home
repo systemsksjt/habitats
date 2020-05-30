@@ -87,25 +87,48 @@ Here is a <a href="https://www.thoughtco.com/land-biomes-savannas-373494">link t
 </p></div>
 <BR><BR>
 
-/* <div>
+
+
 <BR>
-<p>Click here for information about oxpeckers<BR> 
-<BR><BR>
+<BR>
+ <font size="14" color="orange">African Bush Elephants</font><BR>
+<BR>
+
+<p align="left">
+<img src="taylor/Loxodonta_africana.jpg">
 </p>
-</div>
-<BR><BR> */
+<BR><BR>
 
 <div>
 <BR>
-<p>Click here for information about elephants<BR> 
+<p>Click here for information about African Bush Elephants<BR> 
 <BR><BR>
 </p>
 </div>
 <BR><BR>
 
-<div>
+
+<BR>
+<BR>
+<p align="right">
+
+ <font size="14" color="orange">Gazelles</font> </p>
+ <BR>
+<BR>
+
+<p align="right">
+<img src="taylor/NEJkxTxD2SyrGGneuEdcCm-320-80.jpg">
+</p>
+<BR><BR>
+<div id="right" align="right" style="width:200px;height:100px;" >
 <BR>
 <p>Click here for information about gazelles<BR> 
+<BR><BR>
+</p></div>
+<BR><BR>
+<div>
+<BR>
+<p>Click here for information about Gazelles<BR> 
 <BR><BR>
 </p>
 </div>
