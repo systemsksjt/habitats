@@ -2,7 +2,6 @@
 <html>
 <head>
 
-/<!-- BE SURE TO CHANGE THIS; INCLUDE YOUR NAME AND A MEANINGFUL TITLE -->
 <title>Animals of the Savannah - Taylor Joachim ~ Hypertext reh.</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -11,7 +10,7 @@
 <style type="text/css">
 
 body {
-  background-image: linear-gradient(blue, white);
+  background-color: #FFEEDC;
   height:100%
 }
 
