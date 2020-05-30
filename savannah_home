@@ -36,7 +36,7 @@ float:right;
 }
 
 #center {
-height: 200px;
+height: 100px;
   width: 400px;
   background-color: #FFC088;
 float:center;
@@ -54,7 +54,7 @@ float:center;
 The Savannah Habitat:<BR>
 <font size="12">Animals of the Savannah </P></font><BR><BR>
 
-<div id="center" align="center" style="width:400px;height:200px;" >
+<div id="center" align="center" style="width:400px;height:100px;" >
 <BR>
 <p align="center">The African savanna ecosystem is a tropical grassland with warm temperatures year-round and with its highest seasonal rainfall in the summer.<BR> 
 <BR><BR>
