@@ -19,7 +19,12 @@ body {
 	background-color: #7FA590;
 }
  */
- 
+
+<p align="left">
+<img src="taylor/440px-Plains_Zebra_Equus_quagga.jpg">
+</p>
+<BR><BR>
+
  div {
   height: 200px;
   width: 44%;
