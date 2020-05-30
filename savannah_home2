@@ -10,9 +10,9 @@
 
 
 body {
-	background-color: #FFEEDC;
-	/* background-image: url('eye 3.gif'); */
-	height: 350%
+	/* background-color: #FFEEDC; */
+	background-image: url('taylor/306d2a461f454199a6a187a91593384a.jpg');
+	height: 100%
 	}
 	
 	
