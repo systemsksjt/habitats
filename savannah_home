@@ -28,11 +28,9 @@ body {
 }
 
 #right {
-
-border:10px solid brown;
-height:200px;
-width:400px;
-background:#D3BA7D;
+height: 100px;
+  width: 200px;
+  background-color: #D3BA7D;
 float:right;
 
 }
@@ -88,7 +86,7 @@ Here is a <a href="https://www.thoughtco.com/land-biomes-savannas-373494">link t
 
 <div>
 <BR>
-<p>Click here for information about <BR> 
+<p>Click here for information about gazelles<BR> 
 <BR><BR>
 </p>
 </div>
@@ -99,9 +97,11 @@ Here is a <a href="https://www.thoughtco.com/land-biomes-savannas-373494">link t
 <BR><BR>
 
 
-<div id="right" align="right" style="width:25%;height:33%;" >
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
+<div id="right" align="right" style="width:200px;height:100px;" >
+<BR>
+<p>Click here for information about oxpeckers<BR> 
+<BR><BR>
+</p></div>
 <BR><BR>
 
 
