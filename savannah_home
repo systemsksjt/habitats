@@ -20,10 +20,6 @@ body {
 }
  */
 
-<p align="left">
-<img src="taylor/440px-Plains_Zebra_Equus_quagga.jpg">
-</p>
-<BR><BR>
 
  div {
   height: 100px;
@@ -63,6 +59,11 @@ all the while this is <font size="2" color="white"><u>underlined and white</u></
 /<font face="verdana" color="red">"RED"</font> <BR>
  <font size="14" color="orange">Zebras</font><BR>
 <BR>
+
+<p align="left">
+<img src="taylor/440px-Plains_Zebra_Equus_quagga.jpg">
+</p>
+<BR><BR>
 
 <div>
 <BR>
