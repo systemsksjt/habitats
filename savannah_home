@@ -23,16 +23,16 @@ body {
  div {
   height: 200px;
   width: 44%;
-  background-color: powderblue;
+  background-color: #7FA590;
 }
 
-#right {
+#center {
 
-border:12px solid green;
-height:66%;
+border:10px solid brown;
+height:200px;
 width:400px;
-background:white;
-float:right;
+background:#D3BA7D;
+float:center;
 
 }
 </style>
@@ -43,12 +43,12 @@ float:right;
 <BR><BR><BR><BR>
 
 <p align="center">
-this text is in the center<BR>
+The Savannah Habitat:<BR>
 <font size="12">Animals of the Savannah </P></font><BR><BR>
 
 
 
-this is a <a href="https://www.thoughtco.com/land-biomes-savannas-373494">link</a><BR>
+this is a <a href="https://www.thoughtco.com/land-biomes-savannas-373494">link to more information about the animals of the Savannah</a><BR>
 
 this text is <b>bold</b><BR>
 & this is <i>italic</i><BR>
@@ -60,9 +60,10 @@ all the while this is <font size="2" color="white"><u>underlined and white</u></
 <BR>
 
 <div>
-<p>This is a "div" for which the parameters have been set up in the "style" section above...<BR> 
+<BR>
+<p>Click here for information about zebras<BR> 
 And this text is known as lorem ipsum... it is just a place holder, your text should be <i>meaningful</i>.<BR><BR>
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+</p>
 </div>
 <BR><BR>
 
