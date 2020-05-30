@@ -2,8 +2,7 @@
 <html>
 <head>
 
-/<!-- BE SURE TO CHANGE THIS; INCLUDE YOUR NAME AND A MEANINGFUL TITLE -->
-<title>Animals of the Savannah - Taylor Joachim ~ Hypertext reh.</title>
+<title>Animals of the Savannah - Oxpeckers - Taylor Joachim ~ Hypertext reh.</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -11,31 +10,39 @@
 <style type="text/css">
 
 body {
-  background-image: linear-gradient(blue, white);
+  background-color: #FFEEDC;
   height:100%
 }
 
 /* 
 body {
-	background-color: #000FFF;
+	background-color: #7FA590;
 }
  */
- 
+
+
  div {
-  height: 200px;
-  width: 44%;
-  background-color: powderblue;
+  height: 150px;
+  width: 400px;
+  background-color: #7FA590;
 }
 
 #right {
-
-border:12px solid green;
-height:66%;
-width:400px;
-background:white;
+height: 150px;
+  width: 400px;
+  background-color: #D3BA7D;
 float:right;
 
 }
+
+#center {
+height: 200px;
+  width: 400px;
+  background-color: #FFC088;
+float:center;
+
+} 
+
 </style>
 </head>
 
@@ -44,48 +51,97 @@ float:right;
 <BR><BR><BR><BR>
 
 <p align="center">
-this text is in the center<BR>
-<font size="12">Animals of the Savannah </P></font><BR><BR>
-
-
-
-this is a <a href="https://www.thoughtco.com/land-biomes-savannas-373494">link</a><BR>
-
-this text is <b>bold</b><BR>
-& this is <i>italic</i><BR>
-all the while this is <font size="2" color="white"><u>underlined and white</u></font><BR>
+The Savannah Habitat:<BR>
+<font size="14" color="orange">Oxpeckers</font><BR>
 <BR>
- <font size="3" color="lime">green</font><BR>
-<font face="verdana" color="red">"RED"</font> <BR>
- <font size="14" color="orange">whatever</font><BR>
+<img src="taylor/Buphagus_erythrorhynchus00.jpg">
+</p>
+<BR><BR>
+
+<BR>
+ <font size="14" color="orange">Where do oxpeckers get their name?</font><BR>
 <BR>
 
 <div>
-<p>This is a "div" for which the parameters have been set up in the "style" section above...<BR> 
-And this text is known as lorem ipsum... it is just a place holder, your text should be <i>meaningful</i>.<BR><BR>
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-</div>
+<BR>
+<p>Oxpeckers get their name from their habit of landing on large mammals, such as buffalo, wildebeest, antelopes and cattle, to eat the insects and ticks that live on them.  They also like eating blood and will use their sharp bills to keep wounds open so that they can feed.<BR> 
 <BR><BR>
-
-<p align="right">
-& this text is on the "write"</p>
-<BR><BR>
-
-
-<div id="right" align="right" style="width:25%;height:33%;" >
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
-<BR><BR>
-
-
-<P>
-<a href="group member 1/hypertext template red.html" style="color:#FF0000;">RED</a><BR>
-
-<a href="group member 3/hypertext template eye 2.html">&#128065; two</a><BR>
-
-
-<a href="group member 3/hypertext template eye.html">&#128065; one</a><BR>
 </p>
+</div>
+<BR><BR>
+
+<BR>
+<BR>
+<p align="right">
+
+ <font size="14" color="orange">How big are oxpeckers?</font> </p>
+<BR><BR>
+<div id="right" align="right" style="width:400px;height:150px;" >
+<BR>
+<p> These birds grow up to 8-9 inches in length.<BR> 
+<BR><BR>
+</p></div>
+<BR><BR>
+
+<p align="center">
+<img src="taylor/VacantDimCats-size_restricted.gif">
+</p>
+
+<BR>
+<BR>
+
+<BR>
+ <font size="14" color="orange">Where do oxpeckers live?</font><BR>
+<BR>
+<div>
+<BR>
+<p>Oxpeckers can be found throughout the sub-Saharan region of Africa from Senegal to Sudan.<BR> 
+<BR><BR>
+</p>
+</div>
+<BR><BR>
+
+
+<BR>
+<BR>
+<BR>
+<p align="right">
+
+ <font size="14" color="orange">What do oxpeckers eat?</font> </p>
+<BR>
+<div id="right" align="right" style="width:400px;height:150px;" >
+<BR>
+<p>Despite removing ticks and other pests from the fur, oxpeckers are known as parasites because the feed on the blood of their hosts also. When oxpeckers suck blood, they produce wounds that will be infected with new parasites. Those wounds heal slowly.
+Oxpeckers also eat ear wax. Scientists believe that oxpeckers use bacteria from the ear wax to facilitate digestion.<BR> 
+<BR><BR>
+</p></div>
+
+<BR>
+<BR>
+<p align="center">
+Here is a <a href="https://en.wikipedia.org/wiki/Oxpecker">link</a> to more information about oxpeckers<BR>
+</p><BR>
+<BR>
+
+<p align="center">
+<BR>
+<font size="12">More Savannah Animals: </p></font><BR><BR>
+
+<p align="center">
+<font size="12">Zebra African Bush Elephant Gazelle</p></font><BR><BR>
+
+<p align="center">
+<BR>
+<font size="12">More Habitats: </p></font><BR><BR>
+
+<p align="center">
+<font size="12">Oceans Rainforests Arctic</p></font><BR><BR>
+
+
+<p align="center">
+page by Taylor Joachim</p>
+<p/> <BR><BR>
+
 
 
 </body>
