@@ -27,17 +27,17 @@ body {
 
  div {
   height: 100px;
-  width: 200%;
+  width: 200px;
   background-color: #7FA590;
 }
 
-#center {
+#right {
 
 border:10px solid brown;
 height:200px;
 width:400px;
 background:#D3BA7D;
-float:center;
+float:right;
 
 }
 </style>
