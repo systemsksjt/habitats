@@ -68,13 +68,29 @@ Here is a <a href="https://www.thoughtco.com/land-biomes-savannas-373494">link t
 </div>
 <BR><BR>
 
-<div>
+<BR>
+<BR>
+ <font size="14" color="orange">Oxpeckers</font><BR>
+<BR>
+
+<p align="left">
+<img src="taylor/Buphagus_erythrorhynchus00.jpg">
+</p>
+<BR><BR>
+<div id="right" align="right" style="width:200px;height:100px;" >
+<BR>
+<p>Click here for information about oxpeckers<BR> 
+<BR><BR>
+</p></div>
+<BR><BR>
+
+/* <div>
 <BR>
 <p>Click here for information about oxpeckers<BR> 
 <BR><BR>
 </p>
 </div>
-<BR><BR>
+<BR><BR> */
 
 <div>
 <BR>
@@ -97,12 +113,7 @@ Here is a <a href="https://www.thoughtco.com/land-biomes-savannas-373494">link t
 <BR><BR>
 
 
-<div id="right" align="right" style="width:200px;height:100px;" >
-<BR>
-<p>Click here for information about oxpeckers<BR> 
-<BR><BR>
-</p></div>
-<BR><BR>
+
 
 
 <P>
