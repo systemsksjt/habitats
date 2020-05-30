@@ -23,13 +23,13 @@ body {
 
  div {
   height: 100px;
-  width: 200px;
+  width: 400px;
   background-color: #7FA590;
 }
 
 #right {
 height: 100px;
-  width: 200px;
+  width: 400px;
   background-color: #D3BA7D;
 float:right;
 
@@ -68,17 +68,9 @@ The Savannah Habitat:<BR>
 
 <BR>
 <BR>
-<p align="right">
 
- <font size="14" color="orange">Oxpeckers</font> </p>
- <BR>
-<BR>
-
-<p align="right">
-<img src="taylor/Buphagus_erythrorhynchus00.jpg">
-</p>
 <BR><BR>
-<div id="right" align="right" style="width:200px;height:100px;" >
+<div id="right" align="right" style="width:400px;height:100px;" >
 <BR>
 <p>Click here for information about oxpeckers<BR> 
 <BR><BR>
@@ -89,13 +81,7 @@ The Savannah Habitat:<BR>
 
 <BR>
 <BR>
- <font size="14" color="orange">African Bush Elephants</font><BR>
-<BR>
 
-<p align="left">
-<img src="taylor/Loxodonta_africana.jpg">
-</p>
-<BR><BR>
 
 <div>
 <BR>
@@ -108,17 +94,8 @@ The Savannah Habitat:<BR>
 
 <BR>
 <BR>
-<p align="right">
 
- <font size="14" color="orange">Gazelles</font> </p>
- <BR>
-<BR>
-
-<p align="right">
-<img src="taylor/NEJkxTxD2SyrGGneuEdcCm-320-80.jpg">
-</p>
-<BR><BR>
-<div id="right" align="right" style="width:200px;height:100px;" >
+<div id="right" align="right" style="width:400px;height:100px;" >
 <BR>
 <p>Click here for information about gazelles<BR> 
 <BR><BR>
