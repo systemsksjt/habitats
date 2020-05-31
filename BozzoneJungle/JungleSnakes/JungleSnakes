@@ -1,0 +1,142 @@
+<!DOCTYPE HTML PUBLIC>
+<html>
+<head>
+
+<!-- BE SURE TO CHANGE THIS; INCLUDE YOUR NAME AND A MEANINGFUL TITLE -->
+<title>Katie Bozzone Jungle Snakes</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+
+<style type="text/css">
+linked {
+  height: 100px;
+  width: 45%;
+  border:2px solid turquoise;
+  background-color: "powderblue";
+
+body {
+<img src= "/Users/katiebozzone/Desktop/BozzoneJungle/JunglrCats/assets/CatBack.png"  >
+ 
+  height:100%
+}
+
+
+
+ }
+
+ 
+ div {
+  height: 225px;
+  width: 45%;
+  border:2px solid orange;
+  background-color:green;
+}
+
+#right {
+
+border:4px solid orange;
+height:66%;
+width:400px;
+background:green;
+float:right;
+
+}
+JC {
+
+
+height:60%;
+width:50%;
+
+float:right;
+}
+
+ back{
+ height:100%
+ width: 100%;
+ 
+ }
+ </style>
+</head>
+
+<body background= "/Users/katiebozzone/Desktop/BozzoneJungle/JungleSnakes/assets/snakeBack.jpeg" >
+>
+
+
+
+
+
+
+
+
+
+
+
+<p align="center" >
+<font color= "white">
+Katie Bozzone<BR>
+<font color= "white" size="12" align=" center">Jungle Snakes</P></font>
+
+<div id="linked" align="left" style="width:25%;height:100px; color="white";" >
+<font color= "black" size="3">
+<a  href="https://study.com/academy/lesson/rainforest-snakes-facts-lesson-for-kids.html">More info on Jungle Snakes</a><BR>
+
+Link above shows more in-depth Facts and details about Jungle Snakes
+<BR>
+
+</div>
+<BR><BR>
+
+
+<font size="6" color="white">About Jungle Snakes</font>
+
+
+<div>
+<font color= "Black" size="3">
+<p> Venomous snakes are snakes that are poisons and they use that poison to kill there
+prey or to defend themselves. There are a lot of venemous snakes that live in jungles 
+but the main types are Mambas, coral snakes, cobras, and vipers are all venomous jungle
+snakes. Snakes diet consists of They eat a range of amphibians, mammals, small birds, and insects. 
+They are mainly predators but some animals do try to prey on them include different snake species. 
+</div>
+
+
+<p align="right">
+<font color= "White" size="4">
+Fun Facts About Jungle Snakes</p>
+
+
+<font color= "black" size="4">
+<div id="right" align="left" style="width:25%;height:33%;" >
+Snakes are cold-blooded and that means their body temperature changes with the temperature of the air around them.
+Snakes typically try to blend in to there surroundings to attack there prey.
+In a jungle environment with vines and plants and trees that makes there ability 
+to camouflage easily.
+</div>
+
+
+<div id="JC" align="left" style="width:100%;height:0%;"  >
+
+ 
+  <img src="/Users/katiebozzone/Desktop/BozzoneJungle/HomePage/assets/JungleCats.jpg" height = 75px; >
+ <BR>
+ <img src="/Users/katiebozzone/Desktop/BozzoneJungle/HomePage/assets/monkey.jpg" height = 75px; >
+ <BR>
+ <img src="/Users/katiebozzone/Desktop/BozzoneJungle/HomePage/assets/TreeFrog.jpg" height = 75px; >
+ <BR>
+<font size= 3 color= white>
+Other Major Habitats
+<BR>
+ <img src="/Users/katiebozzone/Desktop/BozzoneJungle/HomePage/assets/ocean.jpg" height =75px;; >
+<BR>
+ <img src="/Users/katiebozzone/Desktop/BozzoneJungle/HomePage/assets/desert.jpg" height = 75px; >
+<BR>
+ <img src="/Users/katiebozzone/Desktop/BozzoneJungle/HomePage/assets/arctic.jpg" height = 55px; >
+<BR>
+ </p>
+<BR><BR><BR>
+</div>
+
+
+</body>
+</html>
